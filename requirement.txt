@@ -1,0 +1,4 @@
+imgui
+pyOpenGL
+pillow
+numpy
